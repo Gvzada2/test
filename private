@@ -30,7 +30,7 @@
 "titlecmnpobreflix2.9": "Atualização do mod",
 "msgcmnpobreflix2.9": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
 "statuscmnpobreflix2.9": "false",
-"attpobreflix2.9": "false",
+"attpobreflix2.9": "true",
 "titlecmnakplay2.5": "Atualização do mod",
 "msgcmnakplay2.5": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
 "statuscmakplay2.5": "false",
@@ -71,5 +71,9 @@ Essa que está logo abaixo não é a da versão MODIFICADA, NÃO atualize.",
 "titlecmncinepix2.12": "Atualização do mod",
 "msgcmncinepix2.12": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
 "statuscmncinepix2.12": "false",
-"attcinepix2.12": "false"
+"attcinepix2.12": "false",
+"titlecmnpobreflix2.11": "Atualização do mod",
+"msgcmnpobreflix2.11": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
+"statuscmnpobreflix2.11": "false",
+"attpobreflix2.11": "false"
 }
