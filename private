@@ -54,7 +54,7 @@
 "titlecmncinepix2.11": "Atualização do mod",
 "msgcmncinepix2.11": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
 "statuscmncinepix2.11": "false",
-"attcinepix2.11": "false",
+"attcinepix2.11": "true",
 "titlecmnplayanimes5.0.6": "Atualização do mod",
 "msgcmnplayanimes5.0.6": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
 "statuscmnplayanimes5.0.6": "false",
@@ -67,5 +67,9 @@
 "msgcmnmovcine2.4": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.
 Essa que está logo abaixo não é a da versão MODIFICADA, NÃO atualize.",
 "statuscmnmovcine2.4": "true",
-"attmovcine2.4": "false" 
+"attmovcine2.4": "false",
+"titlecmncinepix2.12": "Atualização do mod",
+"msgcmncinepix2.12": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
+"statuscmncinepix2.12": "false",
+"attcinepix2.12": "false"
 }
