@@ -66,8 +66,8 @@
 "titlecmnmovcine2.4": "Atualização do mod",
 "msgcmnmovcine2.4": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.
 Essa que está logo abaixo não é a da versão MODIFICADA, NÃO atualize.",
-"statuscmnmovcine2.4": "true",
-"attmovcine2.4": "false",
+"statuscmnmovcine2.4": "false",
+"attmovcine2.4": "true",
 "titlecmncinepix2.12": "Atualização do mod",
 "msgcmncinepix2.12": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
 "statuscmncinepix2.12": "false",
@@ -83,5 +83,10 @@ Essa que está logo abaixo não é a da versão MODIFICADA, NÃO atualize.",
 "titlecmnanimekey4.8": "Atualização do mod",
 "msgcmnanimekey4.8": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
 "statuscmnanimekey4.8": "false",
-"attanimekey4.8": "false" 
+"attanimekey4.8": "false",
+"titlecmnmovcine2.6": "Atualização do mod",
+"msgcmnmovcine2.6": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.
+Essa que está logo abaixo não é a da versão MODIFICADA, NÃO atualize.",
+"statuscmnmovcine2.6": "false",
+"attmovcine2.6": "false" 
 }
