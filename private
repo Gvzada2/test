@@ -88,7 +88,7 @@ Essa que está logo abaixo não é a da versão MODIFICADA, NÃO atualize.",
 "msgcmnmovcine2.6": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.
 Essa que está logo abaixo não é a da versão MODIFICADA, NÃO atualize.",
 "statuscmnmovcine2.6": "false",
-"attmovcine2.6": "false",
+"attmovcine2.6": "true",
 "titlecmnplayanimes5.0.8": "Atualização do mod",
 "msgcmnplayanimes5.0.8": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
 "statuscmnplayanimes5.0.8": "false",
@@ -104,5 +104,10 @@ Essa que está logo abaixo não é a da versão MODIFICADA, NÃO atualize.",
 "titlecmnpobreflix2.20": "Atualização do mod",
 "msgcmnpobreflix2.20": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
 "statuscmnpobreflix2.20": "false",
-"attpobreflix2.20": "false"
+"attpobreflix2.20": "false",
+"titlecmnmovcine2.7": "Atualização do mod",
+"msgcmnmovcine2.7": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.
+Essa que está logo abaixo não é a da versão MODIFICADA, NÃO atualize.",
+"statuscmnmovcine2.7": "false",
+"attmovcine2.7": "false"
 }
