@@ -275,8 +275,12 @@ Está dando erro nos conteúdos porque saiu uma nova, aguarde",
 "msgcmn9uhdmax17v11.03": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
 "statuscmn9uhdmax17v11.03": "false",
 "att9uhdmax17v11.03": "false",
-"titlecmnvisiontv1.1.0": "Atualização do mod",
-"msgcmnvisiontv1.1.0": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
-"statuscmnvisiontv1.1.0": "false",
-"attvisiontv1.1.0": "false"
+"titlecmnvisiontv1.1.0": "Erros no MOD",
+"msgcmnvisiontv1.1.0": "Essa versão modificada foi barrada pelo desenvolvedor do aplicativo. Fique ligado no meu canal do Telegram, uma possível correção pode ser lançada. Diversos outros aplicativos de filmes, séries e canais ao vivo também são postadas por lá!",
+"statuscmnvisiontv1.1.0": "true",
+"attvisiontv1.1.0": "false",
+"titlecmnsmartplayv1.0.4": "Atualização do mod",
+"msgcmnsmartplayv1.0.4": "Uma nova atualização do mod será lançada em breve, fique de olho no meu canal do Telegram.",
+"statuscmnsmartplayv1.0.4": "false",
+"attsmartplayv1.0.4": "false"
 }
